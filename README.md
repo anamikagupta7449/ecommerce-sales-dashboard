@@ -30,3 +30,10 @@ Power BI dashboard analyzing e-commerce sales, revenue &amp; cancellation trends
 
 6. Tools Used
    - Power BI, DAX, Data Modeling
+  
+
+## Dashboard Preview
+
+![Dashboard Page 1](dashboard-page1.png)
+
+![Dashboard Page 2](Dashboard-page2.png)
